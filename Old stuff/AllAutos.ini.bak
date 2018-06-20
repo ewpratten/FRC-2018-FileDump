@@ -1,0 +1,17 @@
+[NetworkTables Storage 3.0]
+double "/Preferences/Base Speed AutoZero"=0.5
+double "/Preferences/BlueLeftAngle"=56
+double "/Preferences/BlueLeftDriveOne"=-103.5
+double "/Preferences/BlueLeftDriveTwo"=-22.5
+double "/Preferences/BlueRightAngle"=-58
+double "/Preferences/BlueRightDriveTwo"=-54
+double "/Preferences/D Coefficient"=0.8
+double "/Preferences/In/Out-take speed (%)"=50
+double "/Preferences/Max Speed AutoZero"=0.5
+double "/Preferences/P Coefficient"=3
+double "/Preferences/RedLeftAngle"=58
+double "/Preferences/RedLeftDriveOne"=-85
+double "/Preferences/RedLeftDriveTwo"=-54
+double "/Preferences/RedRightAngle"=-56
+double "/Preferences/RedRightDriveOne"=-103.5
+double "/Preferences/RedRightDriveTwo"=-22.5
